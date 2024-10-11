@@ -68,8 +68,11 @@ body,td,th {
 	padding:1em;
 	margin:0px 1em 1em 0px;
 }
-
-.heading {background-color:#FF3;
+.container{
+	width: 50px;
+	
+}
+.heading {background-color:ffccff;
 padding:.75em;
 text-align:center;}
 
